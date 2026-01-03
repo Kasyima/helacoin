@@ -1,0 +1,12 @@
+/home/mbelenzla/Projects/rs_projects/helacoin/target/debug/deps/libhalf-443b714b48d30717.rmeta: /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/lib.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/bfloat.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/bfloat/convert.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/binary16.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/binary16/arch.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/binary16/arch/x86.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/leading_zeros.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/slice.rs
+
+/home/mbelenzla/Projects/rs_projects/helacoin/target/debug/deps/half-443b714b48d30717.d: /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/lib.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/bfloat.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/bfloat/convert.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/binary16.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/binary16/arch.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/binary16/arch/x86.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/leading_zeros.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/slice.rs
+
+/home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/lib.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/bfloat.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/bfloat/convert.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/binary16.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/binary16/arch.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/binary16/arch/x86.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/leading_zeros.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-2.6.0/src/slice.rs:

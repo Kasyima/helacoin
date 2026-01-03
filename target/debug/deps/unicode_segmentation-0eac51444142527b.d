@@ -1,0 +1,9 @@
+/home/mbelenzla/Projects/rs_projects/crit-projects/helacoin/target/debug/deps/unicode_segmentation-0eac51444142527b.d: /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/lib.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/grapheme.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/sentence.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/word.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/tables.rs
+
+/home/mbelenzla/Projects/rs_projects/crit-projects/helacoin/target/debug/deps/libunicode_segmentation-0eac51444142527b.rmeta: /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/lib.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/grapheme.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/sentence.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/word.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/tables.rs
+
+/home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/lib.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/grapheme.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/sentence.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/word.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/unicode-segmentation-1.12.0/src/tables.rs:

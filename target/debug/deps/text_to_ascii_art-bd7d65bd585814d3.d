@@ -1,0 +1,9 @@
+/home/mbelenzla/Projects/rs_projects/crit-projects/helacoin/target/debug/deps/text_to_ascii_art-bd7d65bd585814d3.d: /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/lib.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/fonts.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/fonts/default_font.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/fonts/small.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/fonts/standard.rs
+
+/home/mbelenzla/Projects/rs_projects/crit-projects/helacoin/target/debug/deps/libtext_to_ascii_art-bd7d65bd585814d3.rmeta: /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/lib.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/fonts.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/fonts/default_font.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/fonts/small.rs /home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/fonts/standard.rs
+
+/home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/lib.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/fonts.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/fonts/default_font.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/fonts/small.rs:
+/home/mbelenzla/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/text-to-ascii-art-0.1.10/src/fonts/standard.rs:
